@@ -1,4 +1,4 @@
-# Doc2Vec
+# Document searching using Doc2Vec
 
 The project is an attempt to explore the utility of Doc2Vec algorithm for the task of Searching Documents. 
 
